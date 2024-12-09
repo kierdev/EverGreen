@@ -1,0 +1,66 @@
+[
+  {
+    "customer_name": "John Doe",
+    "products": [
+      {
+        "product_id": "7",
+        "product_image": "/images/CENTERPIECE/GRACEFUL RADIANCE ARRANGEMENT.png",
+        "product_name": "Graceful Radiance Arrangement",
+        "product_price": 39.99,
+        "product_quantity": 1
+      },
+      {
+        "product_id": "8",
+        "product_image": "/images/CENTERPIECE/ORCHID BEAUTY ARRANGEMENT.png",
+        "product_name": "Orchid Beauty Arrangement",
+        "product_price": 49.99,
+        "product_quantity": 2
+      },
+      {
+        "product_id": "9",
+        "product_image": "/images/CENTERPIECE/SUNSHINE DELIGHT ARRANGEMENT.png",
+        "product_name": "Sunshine Delight Arrangement",
+        "product_price": 29.99,
+        "product_quantity": 1
+      }
+    ]
+  },
+  {
+    "customer_name": "Jane Smith",
+    "products": [
+      {
+        "product_id": "10",
+        "product_image": "/images/CENTERPIECE/ELEGANT ROSE BOUQUET.png",
+        "product_name": "Elegant Rose Bouquet",
+        "product_price": 24.99,
+        "product_quantity": 3
+      },
+      {
+        "product_id": "11",
+        "product_image": "/images/CENTERPIECE/LUXURIOUS TULIP ARRANGEMENT.png",
+        "product_name": "Luxurious Tulip Arrangement",
+        "product_price": 34.99,
+        "product_quantity": 1
+      }
+    ]
+  },
+  {
+    "customer_name": "Emily Johnson",
+    "products": [
+      {
+        "product_id": "7",
+        "product_image": "/images/CENTERPIECE/GRACEFUL RADIANCE ARRANGEMENT.png",
+        "product_name": "Graceful Radiance Arrangement",
+        "product_price": 39.99,
+        "product_quantity": 1
+      },
+      {
+        "product_id": "8",
+        "product_image": "/images/CENTERPIECE/ORCHID BEAUTY ARRANGEMENT.png",
+        "product_name": "Orchid Beauty Arrangement",
+        "product_price": 49.99,
+        "product_quantity": 1
+      }
+    ]
+  }
+]

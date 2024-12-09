@@ -1,0 +1,142 @@
+[
+  {
+    "product_id": "1",
+    "product_name": "Fairy Tale Bouquet",
+    "product_price": 29.99,
+    "product_quantity": 20,
+    "product_image": "/images/BOUQUET/FAIRY TALE BOUQUET.png"
+  },
+  {
+    "product_id": "2",
+    "product_name": "Festive Flora Bouquet",
+    "product_price": 24.99,
+    "product_quantity": 15,
+    "product_image": "/images/BOUQUET/FESTIVE FLORA BOUQUET.png"
+  },
+  {
+    "product_id": "3",
+    "product_name": "Romantic Reverie Bouquet",
+    "product_price": 19.99,
+    "product_quantity": 25,
+    "product_image": "/images/BOUQUET/ROMANTIC REVERIE BOUQUET.png"
+  },
+  {
+    "product_id": "4",
+    "product_name": "Rosy Delight Bouquet",
+    "product_price": 34.99,
+    "product_quantity": 10,
+    "product_image": "/images/BOUQUET/ROSY DELIGHT BOUQUET.png"
+  },
+  {
+    "product_id": "5",
+    "product_name": "Blissful Blooms Arrangement",
+    "product_price": 27.99,
+    "product_quantity": 18,
+    "product_image": "/images/CENTERPIECE/BLISSFUL BLOOMS ARRANGEMEN.png"
+  },
+  {
+    "product_id": "6",
+    "product_name": "Fiery Love Arrangement",
+    "product_price": 22.99,
+    "product_quantity": 12,
+    "product_image": "/images/CENTERPIECE/FIERY LOVE ARRANGEMENT.png"
+  },
+  {
+    "product_id": "7",
+    "product_name": "Graceful Radiance Arrangement",
+    "product_price": 39.99,
+    "product_quantity": 14,
+    "product_image": "/images/CENTERPIECE/GRACEFUL RADIANCE ARRANGEMENT.png"
+  },
+  {
+    "product_id": "8",
+    "product_name": "Joyful Duo Arrangement",
+    "product_price": 25.99,
+    "product_quantity": 20,
+    "product_image": "/images/CENTERPIECE/JOYFUL DUO ARRANGEMENT.png"
+  },
+  {
+    "product_id": "9",
+    "product_name": "Petite Harmony Arrangement",
+    "product_price": 32.99,
+    "product_quantity": 8,
+    "product_image": "/images/CENTERPIECE/PETITE HARMONY ARRANGEMENT.png"
+  },
+  {
+    "product_id": "10",
+    "product_name": "Radiant Bliss Arrangement",
+    "product_price": 18.99,
+    "product_quantity": 22,
+    "product_image": "/images/CENTERPIECE/RADIANT BLISS ARRANGEMENT.png"
+  },
+  {
+    "product_id": "11",
+    "product_name": "Sunlight Charm Arrangement",
+    "product_price": 15.99,
+    "product_quantity": 30,
+    "product_image": "/images/CENTERPIECE/SUNLIT CHARM ARRANGEMENT.png"
+  },
+  {
+    "product_id": "12",
+    "product_name": "White Glow Arrangement",
+    "product_price": 28.99,
+    "product_quantity": 16,
+    "product_image": "/images/CENTERPIECE/WHITE GLOW ARRANGEMENT.png"
+  },
+  {
+    "product_id": "13",
+    "product_name": "Charming Destiny Corsage",
+    "product_price": 42.99,
+    "product_quantity": 9,
+    "product_image": "/images/CORSAGE/CHARMING DESTINY CORSAGE.png"
+  },
+  {
+    "product_id": "14",
+    "product_name": "Cherish Moments Corsage",
+    "product_price": 21.99,
+    "product_quantity": 18,
+    "product_image": "/images/CORSAGE/CHERISHED MOMENTS CORSAGE.png"
+  },
+  {
+    "product_id": "15",
+    "product_name": "Classic Beauty Corsage",
+    "product_price": 19.99,
+    "product_quantity": 27,
+    "product_image": "/images/CORSAGE/CLASSIC BEAUTY CORSAGE.png"
+  },
+  {
+    "product_id": "16",
+    "product_name": "Forever Yours Corsage",
+    "product_price": 36.99,
+    "product_quantity": 13,
+    "product_image": "/images/CORSAGE/FOREVER YOURS CORSAGE.png"
+  },
+  {
+    "product_id": "17",
+    "product_name": "Azalea Pot",
+    "product_price": 30.99,
+    "product_quantity": 15,
+    "product_image": "/images/azalea_pot.jpg"
+  },
+  {
+    "product_id": "18",
+    "product_name": "Zinnia Basket",
+    "product_price": 17.99,
+    "product_quantity": 24,
+    "product_image": "/images/zinnia_basket.jpg"
+  },
+  {
+    "product_id": "19",
+    "product_name": "Anthurium Pot",
+    "product_price": 33.99,
+    "product_quantity": 12,
+    "product_image": "/images/anthurium_pot.jpg"
+  },
+  {
+    "product_id": "20",
+    "product_name": "Ranunculus Bouquet",
+    "product_price": 38.99,
+    "product_quantity": 10,
+    "product_image": "/images/ranunculus_bouquet.jpg"
+  }
+]
